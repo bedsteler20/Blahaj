@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "hibi.blahaj.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "blahaj.mixin-refmap.json",
+  "client": [
+    "BipedModelMixin",
+    "PlayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

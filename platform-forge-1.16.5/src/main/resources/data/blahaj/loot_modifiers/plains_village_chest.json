@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "chests/village/village_plains_house"
+    }
+  ],
+  "item": "blahaj:gray_shark",
+  "chance": 0.57,
+  "type": "blahaj:chance_loot_modifier"
+}

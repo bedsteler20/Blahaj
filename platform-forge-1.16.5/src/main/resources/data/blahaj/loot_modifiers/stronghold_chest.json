@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "chests/stronghold_crossing"
+    },
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "chests/stronghold_corridor"
+    }
+  ],
+  "item": "blahaj:gray_shark",
+  "chance": 0.60,
+  "type": "blahaj:chance_loot_modifier"
+}
